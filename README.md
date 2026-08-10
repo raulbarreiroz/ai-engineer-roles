@@ -1,2 +1,1 @@
-# ai-engineer-roles
-Learning repository for AI Engineer roles by seniority level
+Learning repository for AI Engineer. Check out the junior, semi-senior, and senior branches for specific level content.
