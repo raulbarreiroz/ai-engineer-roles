@@ -1,0 +1,8 @@
+# core RAG path works with stdlib + optional deps
+sentence-transformers>=2.5,<4
+chromadb>=0.4,<1
+numpy>=1.26,<3
+
+# optional LangChain-style wrappers (not required to run qa.py)
+langchain>=0.2,<1
+langchain-community>=0.2,<1
