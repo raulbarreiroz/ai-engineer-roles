@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+demo/last_output.py
+.pytest_cache/
+.env
